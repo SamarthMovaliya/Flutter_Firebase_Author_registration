@@ -1,16 +1,6 @@
 # flutter_firebase_author_regestration
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230404_101651](https://user-images.githubusercontent.com/121867874/229690554-10bb1dcc-6764-483a-b082-977023bf21df.png)
+![Screenshot_20230404_101711](https://user-images.githubusercontent.com/121867874/229690560-420c0078-6505-4715-9ada-8f3bbc81f264.png)
+![Screenshot_20230404_102110](https://user-images.githubusercontent.com/121867874/229690565-bec63097-83c1-40be-8537-f10cac372435.png)
+![Screenshot_20230404_102113](https://user-images.githubusercontent.com/121867874/229690578-df716499-860a-4b8c-a0ad-e18c4659289c.png)
+![Screenshot_20230404_102127](https://user-images.githubusercontent.com/121867874/229690589-03d37c28-ae90-485b-892a-af890d4a733c.png)
